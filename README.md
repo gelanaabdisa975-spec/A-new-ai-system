@@ -1,0 +1,26 @@
+<div style="  text-align:center;margin-top:40px;><img src="logo.jpg">
+
+<div style="  text-align:center;margin-top:40px;>
+<a style="padding-right 20px;" href="index.html">home</a>
+<a style="padding-right 20px;" href="about.html">about</a>
+<a style="padding-right 20px;" href="services.html">service</a>
+</div>
+
+<h1  style= "font-size:50px;text-align:center;">  wel come to AI </h1>
+
+<p style= "font-size:20px; text-align:center;line-height:25px" margin-bottom 50px; > Ice cream is a common dessert product that is produced through the pasteurization and homogenization of blended dairy products<br> (typically milk, condensed milk, butterfat, and cream). Other ingredients such as sweetening agents, flavorings, stabilizers, emulsifiers, colorings are also added to the mix. </p>
+<div style="  text-align:center; "><a  style= " font-size:20px;Background-color:red; padding: 15px 35px 15px 35px;color:white" href= " https://www.google.com/"> Read more </a></div>
+
+<hr>
+
+<h1  style= "font-size:50px;text-align:center;"> ourcore flavors</h1>
+
+<img src="ff.jpg">
+<img src="ffmax.jpg">
+<img src="pb.jpg">
+
+<h1  style= "font-size:50px;text-align:center;"> services</h1>
+<div style="  text-align:center;  
+< video src= " video/icecream.mp4" controls/>
+</div>
+
